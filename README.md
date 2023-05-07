@@ -17,3 +17,4 @@ In terms of the theory and programming of a password generator behind the functi
 
 ## Link to deployed application
 
+http://127.0.0.1:3002/index.html
