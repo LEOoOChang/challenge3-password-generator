@@ -14,3 +14,6 @@ In terms of the theory and programming of a password generator behind the functi
 4. ![whether or not adding numbers](https://raw.githubusercontent.com/LEOoOChang/challenge3-password-generator/8aed9b410ce7fa5fe00fac23713847b74f03d9f1/Assets/Screenshot%202023-05-07%20at%204.51.16%20PM.png)
 5. ![whether or not adding special characters](https://raw.githubusercontent.com/LEOoOChang/challenge3-password-generator/8aed9b410ce7fa5fe00fac23713847b74f03d9f1/Assets/Screenshot%202023-05-07%20at%204.51.19%20PM.png)
 6. ![password generated](https://raw.githubusercontent.com/LEOoOChang/challenge3-password-generator/8aed9b410ce7fa5fe00fac23713847b74f03d9f1/Assets/Screenshot%202023-05-07%20at%204.51.32%20PM.png)
+
+## Link to deployed application
+
